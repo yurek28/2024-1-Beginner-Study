@@ -11,4 +11,4 @@ commit시 파일을 어떻게 수정했느냐에 따라 코멘트 달기
 
 솔직히 화요일날 배울 당시에는 add, commit, push 이 3가지 종류의 명령어가 다 비슷해보여 어떻게 다른지 헷갈렸었는데 이번 과제 제출 실습을 통해 직접 사용해보며 어느정도 깨달을 수 있었다.
 
-<https://github.com/yurek28/
+<https://github.com/yurek28/yurek28/
