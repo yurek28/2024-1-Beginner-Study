@@ -17,7 +17,7 @@ release: 버그를 수정하고 QA 작업을 하는 branch
 
 hotfix: 긴급 수정을 담당하는 btanch
 
--github flow
+- github flow
 
 main과 feature branch만 사용
 
